@@ -1,0 +1,22 @@
+{
+  "name": "ts-webwork2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tkaden4/ts-webwork2.git",
+  "author": "Kaden Thomas <thomas.kaden4@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "tsc && node dist/src/"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cookie": "^0.4.0",
+    "form-data": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.13",
+    "@types/cookie": "^0.3.3",
+    "@types/node": "^12.11.1"
+  }
+}
