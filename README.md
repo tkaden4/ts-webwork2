@@ -13,7 +13,9 @@ Interact with your webwork2 profile.
 ```js
 const webwork2 = require("webwork2-api");
 
-const loginInfo = -webwork2;
+const loginInfo = webwork2.login(webwork2.courseURL("..."), username, password);
+
+// ...
 ```
 
 ## Supported features
