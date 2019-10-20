@@ -1,4 +1,4 @@
-# webwork2
+# webwork2-api
 
 [![npm version](https://badge.fury.io/js/webwork2-api.svg)](https://badge.fury.io/js/webwork2-api)
 
