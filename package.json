@@ -1,6 +1,6 @@
 {
   "name": "webwork2-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/tkaden4/ts-webwork2.git",
   "author": "Kaden Thomas <thomas.kaden4@outlook.com>",
   "license": "MIT",
